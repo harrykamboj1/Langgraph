@@ -3,3 +3,5 @@ langchain_community
 langchain-google-genai
 dotenv
 langgraph
+langchain-ollama
+grandalf
